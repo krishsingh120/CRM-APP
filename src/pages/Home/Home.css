@@ -1,0 +1,23 @@
+.card-wrapper {
+    height: 10rem;
+    width: 15rem;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: burlywood;
+}
+
+.card-upper-part {
+    border-bottom: 2px solid brown;
+}
+
+.pie-chart-data {
+    height: 30rem;
+    width: 30rem;
+    margin: 30px auto;
+}
+
+.line-chart-data {
+    height: 350px;
+    width: 900px;
+    margin: 0 auto;
+}
